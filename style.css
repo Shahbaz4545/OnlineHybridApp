@@ -10,7 +10,6 @@
 header{
     width: 100%;
     height:auto;
-    background-color: white;
     position: sticky;
     top:0;
      /* Responsive Code */
@@ -18,7 +17,8 @@ header{
      flex-direction: row;
      justify-content: space-around;
      flex-wrap: wrap;
-   float: left;
+     float: left;
+    background-color: white;
 }
 #icons{
     width:100%;
